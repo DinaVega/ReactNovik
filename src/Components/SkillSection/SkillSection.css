@@ -1,0 +1,17 @@
+.skills {
+  padding-top: 91px;
+  padding-bottom: 19px;
+}
+.skills h2 {
+  margin-bottom: 69px;
+}
+.skills .descr {
+  margin-bottom: 83px;
+  text-align: center;
+}
+.skills .cards {
+  display: flex;
+  justify-content: space-between;
+  max-width: 940px;
+  width: 100%;
+}

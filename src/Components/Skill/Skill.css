@@ -1,0 +1,29 @@
+.skillCard {
+  width: 166px;
+  height: 206px;
+  margin-bottom: 81px;
+}
+.skillCard .skillImg {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 24px;
+}
+.skillCard p {
+  margin: auto;
+  width: 79px;
+  margin-bottom: 41px;
+  text-align: center;
+  color: #828282;
+  font-size: 14px;
+  line-height: 17px;
+  min-height: 34px;
+}
+
+.raiting {
+  display: flex;
+  justify-content: space-between;
+}
+
+.starGrey {
+  filter: invert(85%) sepia(20%) saturate(0%) hue-rotate(137deg) brightness(102%) contrast(96%);
+}
